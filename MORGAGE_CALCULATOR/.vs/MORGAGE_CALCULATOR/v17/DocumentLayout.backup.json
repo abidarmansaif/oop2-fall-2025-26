@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abida\\Documents\\C#\\MORGAGE_CALCULATOR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6C6F97-FB93-405D-943E-0B2601A1A4C1}|MORGAGE_CALCULATOR\\MORGAGE_CALCULATOR.csproj|c:\\users\\abida\\documents\\c#\\morgage_calculator\\morgage_calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6C6F97-FB93-405D-943E-0B2601A1A4C1}|MORGAGE_CALCULATOR\\MORGAGE_CALCULATOR.csproj|solutionrelative:morgage_calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abida\\Documents\\C#\\MORGAGE_CALCULATOR\\MORGAGE_CALCULATOR\\Program.cs",
+              "RelativeDocumentMoniker": "MORGAGE_CALCULATOR\\Program.cs",
+              "ToolTip": "C:\\Users\\abida\\Documents\\C#\\MORGAGE_CALCULATOR\\MORGAGE_CALCULATOR\\Program.cs*",
+              "RelativeToolTip": "MORGAGE_CALCULATOR\\Program.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwB4AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T07:25:50.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

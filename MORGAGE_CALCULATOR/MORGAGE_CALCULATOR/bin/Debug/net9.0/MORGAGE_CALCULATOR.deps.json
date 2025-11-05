@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MORGAGE_CALCULATOR/1.0.0": {
+        "runtime": {
+          "MORGAGE_CALCULATOR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MORGAGE_CALCULATOR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

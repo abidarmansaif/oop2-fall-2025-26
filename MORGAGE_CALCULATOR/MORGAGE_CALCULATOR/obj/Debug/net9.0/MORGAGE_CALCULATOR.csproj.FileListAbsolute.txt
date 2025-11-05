@@ -1,0 +1,14 @@
+C:\Users\abida\Documents\C#\MORGAGE_CALCULATOR\MORGAGE_CALCULATOR\bin\Debug\net9.0\MORGAGE_CALCULATOR.exe
+C:\Users\abida\Documents\C#\MORGAGE_CALCULATOR\MORGAGE_CALCULATOR\bin\Debug\net9.0\MORGAGE_CALCULATOR.deps.json
+C:\Users\abida\Documents\C#\MORGAGE_CALCULATOR\MORGAGE_CALCULATOR\bin\Debug\net9.0\MORGAGE_CALCULATOR.runtimeconfig.json
+C:\Users\abida\Documents\C#\MORGAGE_CALCULATOR\MORGAGE_CALCULATOR\bin\Debug\net9.0\MORGAGE_CALCULATOR.dll
+C:\Users\abida\Documents\C#\MORGAGE_CALCULATOR\MORGAGE_CALCULATOR\bin\Debug\net9.0\MORGAGE_CALCULATOR.pdb
+C:\Users\abida\Documents\C#\MORGAGE_CALCULATOR\MORGAGE_CALCULATOR\obj\Debug\net9.0\MORGAGE_CALCULATOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abida\Documents\C#\MORGAGE_CALCULATOR\MORGAGE_CALCULATOR\obj\Debug\net9.0\MORGAGE_CALCULATOR.AssemblyInfoInputs.cache
+C:\Users\abida\Documents\C#\MORGAGE_CALCULATOR\MORGAGE_CALCULATOR\obj\Debug\net9.0\MORGAGE_CALCULATOR.AssemblyInfo.cs
+C:\Users\abida\Documents\C#\MORGAGE_CALCULATOR\MORGAGE_CALCULATOR\obj\Debug\net9.0\MORGAGE_CALCULATOR.csproj.CoreCompileInputs.cache
+C:\Users\abida\Documents\C#\MORGAGE_CALCULATOR\MORGAGE_CALCULATOR\obj\Debug\net9.0\MORGAGE_CALCULATOR.dll
+C:\Users\abida\Documents\C#\MORGAGE_CALCULATOR\MORGAGE_CALCULATOR\obj\Debug\net9.0\refint\MORGAGE_CALCULATOR.dll
+C:\Users\abida\Documents\C#\MORGAGE_CALCULATOR\MORGAGE_CALCULATOR\obj\Debug\net9.0\MORGAGE_CALCULATOR.pdb
+C:\Users\abida\Documents\C#\MORGAGE_CALCULATOR\MORGAGE_CALCULATOR\obj\Debug\net9.0\MORGAGE_CALCULATOR.genruntimeconfig.cache
+C:\Users\abida\Documents\C#\MORGAGE_CALCULATOR\MORGAGE_CALCULATOR\obj\Debug\net9.0\ref\MORGAGE_CALCULATOR.dll
