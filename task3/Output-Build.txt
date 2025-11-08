@@ -1,0 +1,6 @@
+﻿Build started at 3:51 PM...
+1>------ Build started: Project: task3, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>task3 -> C:\Users\abida\Documents\code\task2\task3\task3\task3\bin\Debug\net9.0\task3.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 3:51 PM and took 02.633 seconds ==========
