@@ -1,0 +1,15 @@
+C:\Users\abida\Documents\Developer\oop2-fall-2025-26\Task1\Task1\bin\Debug\net9.0\Task1.exe
+C:\Users\abida\Documents\Developer\oop2-fall-2025-26\Task1\Task1\bin\Debug\net9.0\Task1.deps.json
+C:\Users\abida\Documents\Developer\oop2-fall-2025-26\Task1\Task1\bin\Debug\net9.0\Task1.runtimeconfig.json
+C:\Users\abida\Documents\Developer\oop2-fall-2025-26\Task1\Task1\bin\Debug\net9.0\Task1.dll
+C:\Users\abida\Documents\Developer\oop2-fall-2025-26\Task1\Task1\bin\Debug\net9.0\Task1.pdb
+C:\Users\abida\Documents\Developer\oop2-fall-2025-26\Task1\Task1\obj\Debug\net9.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abida\Documents\Developer\oop2-fall-2025-26\Task1\Task1\obj\Debug\net9.0\Task1.AssemblyInfoInputs.cache
+C:\Users\abida\Documents\Developer\oop2-fall-2025-26\Task1\Task1\obj\Debug\net9.0\Task1.AssemblyInfo.cs
+C:\Users\abida\Documents\Developer\oop2-fall-2025-26\Task1\Task1\obj\Debug\net9.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\abida\Documents\Developer\oop2-fall-2025-26\Task1\Task1\obj\Debug\net9.0\Task1.sourcelink.json
+C:\Users\abida\Documents\Developer\oop2-fall-2025-26\Task1\Task1\obj\Debug\net9.0\Task1.dll
+C:\Users\abida\Documents\Developer\oop2-fall-2025-26\Task1\Task1\obj\Debug\net9.0\refint\Task1.dll
+C:\Users\abida\Documents\Developer\oop2-fall-2025-26\Task1\Task1\obj\Debug\net9.0\Task1.pdb
+C:\Users\abida\Documents\Developer\oop2-fall-2025-26\Task1\Task1\obj\Debug\net9.0\Task1.genruntimeconfig.cache
+C:\Users\abida\Documents\Developer\oop2-fall-2025-26\Task1\Task1\obj\Debug\net9.0\ref\Task1.dll
