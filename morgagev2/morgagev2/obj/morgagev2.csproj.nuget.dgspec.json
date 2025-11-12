@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abida\\Documents\\Developer\\oop2-fall-2025-26\\MORGAGE_CALCULATOR\\MORGAGE_CALCULATOR\\MORGAGE_CALCULATOR.csproj": {}
+    "C:\\Users\\abida\\Documents\\Developer\\oop2-fall-2025-26\\morgagev2\\morgagev2\\morgagev2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abida\\Documents\\Developer\\oop2-fall-2025-26\\MORGAGE_CALCULATOR\\MORGAGE_CALCULATOR\\MORGAGE_CALCULATOR.csproj": {
+    "C:\\Users\\abida\\Documents\\Developer\\oop2-fall-2025-26\\morgagev2\\morgagev2\\morgagev2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abida\\Documents\\Developer\\oop2-fall-2025-26\\MORGAGE_CALCULATOR\\MORGAGE_CALCULATOR\\MORGAGE_CALCULATOR.csproj",
-        "projectName": "MORGAGE_CALCULATOR",
-        "projectPath": "C:\\Users\\abida\\Documents\\Developer\\oop2-fall-2025-26\\MORGAGE_CALCULATOR\\MORGAGE_CALCULATOR\\MORGAGE_CALCULATOR.csproj",
+        "projectUniqueName": "C:\\Users\\abida\\Documents\\Developer\\oop2-fall-2025-26\\morgagev2\\morgagev2\\morgagev2.csproj",
+        "projectName": "morgagev2",
+        "projectPath": "C:\\Users\\abida\\Documents\\Developer\\oop2-fall-2025-26\\morgagev2\\morgagev2\\morgagev2.csproj",
         "packagesPath": "C:\\Users\\abida\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abida\\Documents\\Developer\\oop2-fall-2025-26\\MORGAGE_CALCULATOR\\MORGAGE_CALCULATOR\\obj\\",
+        "outputPath": "C:\\Users\\abida\\Documents\\Developer\\oop2-fall-2025-26\\morgagev2\\morgagev2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abida\\AppData\\Roaming\\NuGet\\NuGet.Config",

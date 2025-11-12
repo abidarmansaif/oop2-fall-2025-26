@@ -1,0 +1,15 @@
+C:\Users\abida\Documents\Developer\oop2-fall-2025-26\morgagev2\morgagev2\bin\Debug\net9.0\morgagev2.exe
+C:\Users\abida\Documents\Developer\oop2-fall-2025-26\morgagev2\morgagev2\bin\Debug\net9.0\morgagev2.deps.json
+C:\Users\abida\Documents\Developer\oop2-fall-2025-26\morgagev2\morgagev2\bin\Debug\net9.0\morgagev2.runtimeconfig.json
+C:\Users\abida\Documents\Developer\oop2-fall-2025-26\morgagev2\morgagev2\bin\Debug\net9.0\morgagev2.dll
+C:\Users\abida\Documents\Developer\oop2-fall-2025-26\morgagev2\morgagev2\bin\Debug\net9.0\morgagev2.pdb
+C:\Users\abida\Documents\Developer\oop2-fall-2025-26\morgagev2\morgagev2\obj\Debug\net9.0\morgagev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abida\Documents\Developer\oop2-fall-2025-26\morgagev2\morgagev2\obj\Debug\net9.0\morgagev2.AssemblyInfoInputs.cache
+C:\Users\abida\Documents\Developer\oop2-fall-2025-26\morgagev2\morgagev2\obj\Debug\net9.0\morgagev2.AssemblyInfo.cs
+C:\Users\abida\Documents\Developer\oop2-fall-2025-26\morgagev2\morgagev2\obj\Debug\net9.0\morgagev2.csproj.CoreCompileInputs.cache
+C:\Users\abida\Documents\Developer\oop2-fall-2025-26\morgagev2\morgagev2\obj\Debug\net9.0\morgagev2.sourcelink.json
+C:\Users\abida\Documents\Developer\oop2-fall-2025-26\morgagev2\morgagev2\obj\Debug\net9.0\morgagev2.dll
+C:\Users\abida\Documents\Developer\oop2-fall-2025-26\morgagev2\morgagev2\obj\Debug\net9.0\refint\morgagev2.dll
+C:\Users\abida\Documents\Developer\oop2-fall-2025-26\morgagev2\morgagev2\obj\Debug\net9.0\morgagev2.pdb
+C:\Users\abida\Documents\Developer\oop2-fall-2025-26\morgagev2\morgagev2\obj\Debug\net9.0\morgagev2.genruntimeconfig.cache
+C:\Users\abida\Documents\Developer\oop2-fall-2025-26\morgagev2\morgagev2\obj\Debug\net9.0\ref\morgagev2.dll
